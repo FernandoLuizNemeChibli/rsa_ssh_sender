@@ -1,2 +1,2 @@
 # rsa_ssh_sender
-Um exercício do conceito de envio de arquivos via ssh em python.
+Um exercício do conceito de envio de dados via ssh em python.
